@@ -1,0 +1,32 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Envs/Env_2020/DjangoView/DjangoView/urls.py" timestamp="1583968826110">
+        <mark key="[" line="24" column="4" />
+      </file>
+      <file name="$USER_HOME$/Envs/Env_2020/DjangoView/TWO/urls.py" timestamp="1583967973552" />
+      <file name="/APP_student [DjangoCacheDB@localhost]" timestamp="1583644246177">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Envs/Env_2020/DjangoView/DjangoView/settings.py" timestamp="1583968360950">
+        <mark key="[" line="38" column="32" />
+      </file>
+      <file name="$USER_HOME$/Envs/Env_2020/DjangoView/Three/urls.py" timestamp="1583967750751" />
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
