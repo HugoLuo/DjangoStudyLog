@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Envs/Env_2020/DjangoView/DjangoView/urls.py" timestamp="1583968826110">
@@ -25,6 +25,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Envs/Env_2020/DjangoView/APP/urls.py" timestamp="1584025817926" />
+      <file name="$USER_HOME$/Envs/Env_2020/DjangoRichTextFormat/DjangoRichTextFormat/urls.py" timestamp="1584045771155">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Envs/Env_2020/DjangoView/Three/urls.py" timestamp="1584034225082" />
       <file name="/dummy.sql" timestamp="1584037503237">
         <mark key="[" line="0" column="0" />
@@ -38,19 +43,40 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZmRhc2ZkZgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZmRhc2ZkZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VElOWU1DRV9ERUZBVUxUX0NPTkZJRyA9IHsK</text>
+        <text encoding="base64">aWYgbm90IDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U1RBVElDX1JPT1QgPSBvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICdjb2xsZWN0X3N0YXRpYycpCg==</text>
+        <text encoding="base64">ICAgICA9IHVybHBhdHRlcm5zICsgc3RhdGljCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZV9wYXRoKHInXnN0YXRpYy8oP1A8cGF0aD4uKikkJywgc2VydmUsIHsnZG9jdW1lbnRfcm9vdCc6IHNldHRpbmdzLlNUQVRJQ19ST09UfSksICAjIERlYnVn5Li6RmFsc2Xml7blj6/ku6XliqDovb3pnZnmgIHmlofku7YK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyA9IFsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIF0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">VElOWU1DRV9ERUZBVUxUX0NPTkZJRyA9IHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">U1RBVElDX1JPT1QgPSBvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICdjb2xsZWN0X3N0YXRpYycpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -59,7 +85,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
